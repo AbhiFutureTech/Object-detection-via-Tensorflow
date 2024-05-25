@@ -1,8 +1,5 @@
 import numpy as np
-import argparse
-import tensorflow as tf
-import cv2
-import os
+import
 import datetime
 import pandas as pd
 from PIL import Image
