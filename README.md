@@ -1,6 +1,6 @@
 # Tensorflow Object Detection with Tensorflow 2
 
-![duckies_test](https://github.com/patilabhi20/gesture-controlled-robotic-hand-by-using-CV/assets/157373320/f9f966e4-1bd5-48cf-8f1f-4beaad4bce70)
+![1_W3elu1yPiJ3bpj8MZrmvwA](https://github.com/patilabhi20/gesture-controlled-robotic-hand-by-using-CV/assets/157373320/69461b80-aa9a-4d40-90a0-42955450d4b4)
 
 
 
